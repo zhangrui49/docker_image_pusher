@@ -7,7 +7,7 @@
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-openspeedtest
-bitwardenrs/server
+openspeedtest/openspeedtest
+bitwardenrs/bitwardenrs
 johngong/calibre-web
 star7th/showdoc
