@@ -7,7 +7,9 @@
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-openspeedtest:latest
+openspeedtest/latest
 bitwardenrs/server:latest
 johngong/calibre-web
 star7th/showdoc
+rustdesk/rustdesk
+gdy666/lucky
