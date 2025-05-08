@@ -7,3 +7,8 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+MT-Photos
+OpenSpeedTest
+Bitwarden
+Calibre-Web
+ShowDoc
