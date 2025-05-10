@@ -8,8 +8,15 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 openspeedtest/latest
-bitwardenrs/server:latest
+bitwardenrs/server
 johngong/calibre-web
 star7th/showdoc
-rustdesk/rustdesk
+rustdesk/rustdesk-server
 gdy666/lucky
+vaultwarden/server:latest
+ghcr.io/seriousm4x/upsnap:3.3
+containrrr/watchtower
+helloz/onenav
+agrrh/udpxy
+celaraze/cat
+talebook/talebook
