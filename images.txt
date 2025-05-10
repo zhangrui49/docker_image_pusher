@@ -20,3 +20,7 @@ helloz/onenav
 agrrh/udpxy
 celaraze/cat
 talebook/talebook
+docmost/docmost
+ghcr.io/immich-app/immich-server
+valkey/valkey
+tensorchord/pgvecto-rs
