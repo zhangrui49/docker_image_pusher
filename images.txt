@@ -22,5 +22,5 @@ celaraze/cat
 talebook/talebook
 docmost/docmost
 ghcr.io/immich-app/immich-server
-docker.io/valkey/valkey:8-bookworm
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+docker.io/valkey/valkey
+docker.io/tensorchord/pgvecto-rs
