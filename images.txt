@@ -21,5 +21,4 @@ agrrh/udpxy
 celaraze/cat
 talebook/talebook
 docmost/docmost
-ghcr.io/immich-app/immich-server
-tensorchord/pgvecto-rs
+dezhao/immich_cn:1.93.3
