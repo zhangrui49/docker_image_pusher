@@ -22,5 +22,4 @@ celaraze/cat
 talebook/talebook
 docmost/docmost
 ghcr.io/immich-app/immich-server
-docker.io/valkey/valkey
-docker.io/tensorchord/pgvecto-rs
+tensorchord/pgvecto-rs
