@@ -21,5 +21,4 @@ agrrh/udpxy
 celaraze/cat
 talebook/talebook
 docmost/docmost
-kavita/kavita
 gotson/komga
