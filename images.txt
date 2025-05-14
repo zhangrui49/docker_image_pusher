@@ -21,4 +21,4 @@ agrrh/udpxy
 celaraze/cat
 talebook/talebook
 docmost/docmost
-dezhao/immich_cn:1.93.3
+kavita/kavita
