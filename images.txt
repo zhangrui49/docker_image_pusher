@@ -19,6 +19,6 @@ containrrr/watchtower
 helloz/onenav
 agrrh/udpxy
 celaraze/cat
-talebook/talebook
+#talebook/talebook
 docmost/docmost
 gotson/komga
